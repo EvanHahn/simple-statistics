@@ -4,7 +4,7 @@
 var variance = require('./variance');
 
 /**
- * The [standard deviation](http://en.wikipedia.org/wiki/Standard_deviation)
+ * The [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
  * is the square root of the variance. It's useful for measuring the amount
  * of variation or dispersion in a set of values.
  *

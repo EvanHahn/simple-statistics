@@ -9,7 +9,7 @@ function rnd(x) {
 }
 
 test('harmonicMean', function(t) {
-    // From http://en.wikipedia.org/wiki/Harmonic_mean
+    // From https://en.wikipedia.org/wiki/Harmonic_mean
     t.test('can get the mean of two or more numbers', function(t) {
         t.equal(ss.harmonicMean([1, 1]), 1);
         t.equal(rnd(ss.harmonicMean([2, 3])), 2.4);

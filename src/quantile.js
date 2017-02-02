@@ -8,7 +8,7 @@ var quickselect = require('./quickselect');
  * The [quantile](https://en.wikipedia.org/wiki/Quantile):
  * this is a population quantile, since we assume to know the entire
  * dataset in this library. This is an implementation of the
- * [Quantiles of a Population](http://en.wikipedia.org/wiki/Quantile#Quantiles_of_a_population)
+ * [Quantiles of a Population](https://en.wikipedia.org/wiki/Quantile#Quantiles_of_a_population)
  * algorithm from wikipedia.
  *
  * Sample is a one-dimensional array of numbers,

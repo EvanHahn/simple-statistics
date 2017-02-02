@@ -5,7 +5,7 @@ var mean = require('./mean');
 var chiSquaredDistributionTable = require('./chi_squared_distribution_table');
 
 /**
- * The [χ2 (Chi-Squared) Goodness-of-Fit Test](http://en.wikipedia.org/wiki/Goodness_of_fit#Pearson.27s_chi-squared_test)
+ * The [χ2 (Chi-Squared) Goodness-of-Fit Test](https://en.wikipedia.org/wiki/Goodness_of_fit#Pearson.27s_chi-squared_test)
  * uses a measure of goodness of fit which is the sum of differences between observed and expected outcome frequencies
  * (that is, counts of observations), each squared and divided by the number of observations expected given the
  * hypothesized distribution. The resulting χ2 statistic, `chiSquared`, can be compared to the chi-squared distribution

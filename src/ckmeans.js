@@ -175,7 +175,7 @@ function fillMatrices(data, matrix, backtrackMatrix) {
 /**
  * Ckmeans clustering is an improvement on heuristic-based clustering
  * approaches like Jenks. The algorithm was developed in
- * [Haizhou Wang and Mingzhou Song](http://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf)
+ * [Haizhou Wang and Mingzhou Song](https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf)
  * as a [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) approach
  * to the problem of clustering numeric data into groups with the least
  * within-group sum-of-squared-deviations.

@@ -27,7 +27,7 @@ New features:
 
 Specifications:
 
-* Adds [Flow](http://flowtype.org/) annotations to all methods, allowing
+* Adds [Flow](https://flowtype.org/) annotations to all methods, allowing
   up-front typechecking if you use Flow in your application.
 
 Changes:
@@ -176,7 +176,7 @@ var breaks = ss.ckmeans([1, 2, 4, 5, 7, 9, 10, 20], 3)).map(function(cluster) {
 
 ## 0.6.0
 
-* Adds `simple_statistics.quantileSorted` thanks to [rluta](http://github.com/rluta)
+* Adds `simple_statistics.quantileSorted` thanks to [rluta](https://github.com/rluta)
 * `simple_statistics.quantile` now accepts a sorted list of quantiles as a second argument
 * Improved test coverage
 

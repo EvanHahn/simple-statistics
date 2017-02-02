@@ -4,7 +4,7 @@
 var sumNthPowerDeviations = require('./sum_nth_power_deviations');
 
 /**
- * The [variance](http://en.wikipedia.org/wiki/Variance)
+ * The [variance](https://en.wikipedia.org/wiki/Variance)
  * is the sum of squared deviations from the mean.
  *
  * This is an implementation of variance, not sample variance:

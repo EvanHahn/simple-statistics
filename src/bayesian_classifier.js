@@ -2,7 +2,7 @@
 /* @flow */
 
 /**
- * [Bayesian Classifier](http://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+ * [Bayesian Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
  *
  * This is a naïve bayesian classifier that takes
  * singly-nested objects.

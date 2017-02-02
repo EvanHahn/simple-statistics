@@ -5,7 +5,7 @@ var mean = require('./mean');
 var sampleVariance = require('./sample_variance');
 
 /**
- * This is to compute [two sample t-test](http://en.wikipedia.org/wiki/Student's_t-test).
+ * This is to compute [two sample t-test](https://en.wikipedia.org/wiki/Student's_t-test).
  * Tests whether "mean(X)-mean(Y) = difference", (
  * in the most common case, we often have `difference == 0` to test if two samples
  * are likely to be taken from populations with the same mean value) with
@@ -13,7 +13,7 @@ var sampleVariance = require('./sample_variance');
  * other than the fact that they have the same standard deviation.
  *
  * Usually the results here are used to look up a
- * [p-value](http://en.wikipedia.org/wiki/P-value), which, for
+ * [p-value](https://en.wikipedia.org/wiki/P-value), which, for
  * a certain level of significance, will let you determine that the
  * null hypothesis can or cannot be rejected.
  *

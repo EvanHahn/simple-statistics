@@ -4,7 +4,7 @@
 var shuffle = require('./shuffle');
 
 /**
- * Create a [simple random sample](http://en.wikipedia.org/wiki/Simple_random_sample)
+ * Create a [simple random sample](https://en.wikipedia.org/wiki/Simple_random_sample)
  * from a given array of `n` elements.
  *
  * The sampled values will be in any order, not necessarily the order

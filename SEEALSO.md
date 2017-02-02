@@ -24,9 +24,9 @@
 ### Python
 
 * [Pandas](http://pandas.pydata.org/)
-* [SciPy](http://www.scipy.org/)
+* [SciPy](https://www.scipy.org/)
 
 ### Their Own Language
 
 * [Julia Language](http://julialang.org/)
-* [R language](http://www.r-project.org/)
+* [R language](https://www.r-project.org/)

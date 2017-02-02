@@ -4,7 +4,7 @@ A JavaScript implementation of descriptive, regression, and inference statistics
 
 [![Circle CI](https://circleci.com/gh/simple-statistics/simple-statistics/tree/master.svg?style=svg)](https://circleci.com/gh/simple-statistics/simple-statistics/tree/master)
 [![codecov.io](https://codecov.io/github/simple-statistics/simple-statistics/coverage.svg?branch=master)](https://codecov.io/github/simple-statistics/simple-statistics?branch=master)
-[![npm version](https://badge.fury.io/js/simple-statistics.svg)](http://badge.fury.io/js/simple-statistics)
+[![npm version](https://badge.fury.io/js/simple-statistics.svg)](https://badge.fury.io/js/simple-statistics)
 
 Implemented in literate JavaScript with no dependencies, designed to work
 in all modern browsers (including IE) as well as in [node.js](https://nodejs.org/).
@@ -14,7 +14,7 @@ in all modern browsers (including IE) as well as in [node.js](https://nodejs.org
 ## Installation
 
 **Recommended**: for [node.js](https://nodejs.org/), [browserify](http://browserify.org/),
-and/or [webpack](http://webpack.github.io/) users, install from npm:
+and/or [webpack](https://webpack.github.io/) users, install from npm:
 
     npm install simple-statistics
 
@@ -33,6 +33,6 @@ Bower:
 
 ## Examples
 
-* [Linear regression with simple-statistics and d3js](http://bl.ocks.org/3931800)
-* [Jenks Natural Breaks with a choropleth map with d3js](http://bl.ocks.org/tmcw/4969184)
+* [Linear regression with simple-statistics and d3js](https://bl.ocks.org/3931800)
+* [Jenks Natural Breaks with a choropleth map with d3js](https://bl.ocks.org/tmcw/4969184)
 * Embedded statistics in a spreadsheet with nxsheet: [regression](https://nxsheet.com/sheets/56d0a87264e47ee60a95f652) and [stddev](https://nxsheet.com/sheets/56d55ca7743aea68490764ba)

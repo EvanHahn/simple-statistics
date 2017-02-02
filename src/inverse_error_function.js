@@ -2,7 +2,7 @@
 /* @flow */
 
 /**
- * The Inverse [Gaussian error function](http://en.wikipedia.org/wiki/Error_function)
+ * The Inverse [Gaussian error function](https://en.wikipedia.org/wiki/Error_function)
  * returns a numerical approximation to the value that would have caused
  * `errorFunction()` to return x.
  *

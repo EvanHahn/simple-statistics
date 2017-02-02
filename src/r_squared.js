@@ -2,7 +2,7 @@
 /* @flow */
 
 /**
- * The [R Squared](http://en.wikipedia.org/wiki/Coefficient_of_determination)
+ * The [R Squared](https://en.wikipedia.org/wiki/Coefficient_of_determination)
  * value of data compared with a function `f`
  * is the sum of the squared differences between the prediction
  * and the actual value.

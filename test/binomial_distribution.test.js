@@ -9,7 +9,7 @@ function rnd(n) {
 }
 
 test('binomialDistribution', function(t) {
-    // Data given in the [Wikipedia example](http://en.wikipedia.org/wiki/Binomial_distribution#Example) retrieved 29 Mar 2014
+    // Data given in the [Wikipedia example](https://en.wikipedia.org/wiki/Binomial_distribution#Example) retrieved 29 Mar 2014
     // Cumulative probabilities worked by hand to mitigate accumulated rounding errors.
     t.test('can return generate probability and cumulative probability distributions for n = 6, p = 0.3', function(t) {
         t.equal('object', typeof ss.binomialDistribution(6, 0.3));

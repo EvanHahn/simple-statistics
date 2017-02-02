@@ -5,7 +5,7 @@ var test = require('tap').test;
 var ss = require('../');
 
 test('geometric mean', function(t) {
-    // From http://en.wikipedia.org/wiki/Geometric_mean
+    // From https://en.wikipedia.org/wiki/Geometric_mean
     t.test('can get the mean of two numbers', function(t) {
         t.equal(ss.geometricMean([2, 8]), 4);
         t.equal(ss.geometricMean([4, 1, 1 / 32]), 0.5);

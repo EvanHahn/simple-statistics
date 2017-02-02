@@ -5,7 +5,7 @@ var epsilon = require('./epsilon');
 var inverseErrorFunction = require('./inverse_error_function');
 
 /**
- * The [Probit](http://en.wikipedia.org/wiki/Probit)
+ * The [Probit](https://en.wikipedia.org/wiki/Probit)
  * is the inverse of cumulativeStdNormalProbability(),
  * and is also known as the normal quantile function.
  *

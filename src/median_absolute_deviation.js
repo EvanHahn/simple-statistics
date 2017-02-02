@@ -4,7 +4,7 @@
 var median = require('./median');
 
 /**
- * The [Median Absolute Deviation](http://en.wikipedia.org/wiki/Median_absolute_deviation) is
+ * The [Median Absolute Deviation](https://en.wikipedia.org/wiki/Median_absolute_deviation) is
  * a robust measure of statistical
  * dispersion. It is more resilient to outliers than the standard deviation.
  *

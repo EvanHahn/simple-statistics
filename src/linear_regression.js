@@ -2,7 +2,7 @@
 /* @flow */
 
 /**
- * [Simple linear regression](http://en.wikipedia.org/wiki/Simple_linear_regression)
+ * [Simple linear regression](https://en.wikipedia.org/wiki/Simple_linear_regression)
  * is a simple way to find a fitted line
  * between a set of coordinates. This algorithm finds the slope and y-intercept of a regression line
  * using the least sum of squares.

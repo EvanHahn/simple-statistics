@@ -4,7 +4,7 @@
 /**
  * **Percentage Points of the χ2 (Chi-Squared) Distribution**
  *
- * The [χ2 (Chi-Squared) Distribution](http://en.wikipedia.org/wiki/Chi-squared_distribution) is used in the common
+ * The [χ2 (Chi-Squared) Distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution) is used in the common
  * chi-squared tests for goodness of fit of an observed distribution to a theoretical one, the independence of two
  * criteria of classification of qualitative data, and in confidence interval estimation for a population standard
  * deviation of a normal distribution from a sample standard deviation.

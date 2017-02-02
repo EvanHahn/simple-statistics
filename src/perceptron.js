@@ -2,7 +2,7 @@
 /* @flow */
 
 /**
- * This is a single-layer [Perceptron Classifier](http://en.wikipedia.org/wiki/Perceptron) that takes
+ * This is a single-layer [Perceptron Classifier](https://en.wikipedia.org/wiki/Perceptron) that takes
  * arrays of numbers and predicts whether they should be classified
  * as either 0 or 1 (negative or positive examples).
  * @class

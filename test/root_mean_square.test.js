@@ -9,7 +9,7 @@ function rnd(x) {
 }
 
 test('root_mean_square', function(t) {
-    // From http://en.wikipedia.org/wiki/Root_mean_square
+    // From https://en.wikipedia.org/wiki/Root_mean_square
     t.test('can get the RMS of two or more numbers', function(t) {
         t.equal(ss.rootMeanSquare([1, 1]), 1);
         t.equal(rnd(ss.rootMeanSquare([3, 4, 5])), 4.082);

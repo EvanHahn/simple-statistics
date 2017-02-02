@@ -4,7 +4,7 @@
 var quantile = require('./quantile');
 
 /**
- * The [median](http://en.wikipedia.org/wiki/Median) is
+ * The [median](https://en.wikipedia.org/wiki/Median) is
  * the middle number of a list. This is often a good indicator of 'the middle'
  * when there are outliers that skew the `mean()` value.
  * This is a [measure of central tendency](https://en.wikipedia.org/wiki/Central_tendency):

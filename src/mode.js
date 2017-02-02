@@ -5,7 +5,7 @@ var numericSort = require('./numeric_sort'),
     modeSorted = require('./mode_sorted');
 
 /**
- * The [mode](http://bit.ly/W5K4Yt) is the number that appears in a list the highest number of times.
+ * The [mode](https://bit.ly/W5K4Yt) is the number that appears in a list the highest number of times.
  * There can be multiple modes in a list: in the event of a tie, this
  * algorithm will return the most recently seen mode.
  *

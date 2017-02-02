@@ -4,7 +4,7 @@
 var quantile = require('./quantile');
 
 /**
- * The [Interquartile range](http://en.wikipedia.org/wiki/Interquartile_range) is
+ * The [Interquartile range](https://en.wikipedia.org/wiki/Interquartile_range) is
  * a measure of statistical dispersion, or how scattered, spread, or
  * concentrated a distribution is. It's computed as the difference between
  * the third quartile and first quartile.

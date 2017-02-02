@@ -44,8 +44,8 @@ include:
 * [Conditional Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 * [ES5 Array methods](http://ie.microsoft.com/TestDrive/HTML5/ECMAScript5Array/Default.html)
 * `with`, `eval`, and other forms of `eval`
-* Most micro-optimizations, like [alternative for loop forms](http://jsperf.com/loops/70)
-* [Shortcut branching](http://javascriptweblog.wordpress.com/2010/07/26/no-more-ifs-alternatives-to-statement-branching-in-javascript/)
+* Most micro-optimizations, like [alternative for loop forms](https://jsperf.com/loops/70)
+* [Shortcut branching](https://javascriptweblog.wordpress.com/2010/07/26/no-more-ifs-alternatives-to-statement-branching-in-javascript/)
 
 ## Explanatory
 
@@ -91,7 +91,7 @@ covers a specific topic and tries to test against known values:
 * Values produced by trusted statistics software like R or scipy
 * Common-sense results
 
-Tests can be run in [node.js](http://nodejs.org/) and are run on every commit
+Tests can be run in [node.js](https://nodejs.org/) and are run on every commit
 to GitHub by Travis-CI.
 
 To run tests:

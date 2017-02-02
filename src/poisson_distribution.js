@@ -5,7 +5,7 @@ var epsilon = require('./epsilon');
 var factorial = require('./factorial');
 
 /**
- * The [Poisson Distribution](http://en.wikipedia.org/wiki/Poisson_distribution)
+ * The [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
  * is a discrete probability distribution that expresses the probability
  * of a given number of events occurring in a fixed interval of time
  * and/or space if these events occur with a known average rate and

@@ -3,7 +3,7 @@
 
 /**
  * Split an array into chunks of a specified size. This function
- * has the same behavior as [PHP's array_chunk](http://php.net/manual/en/function.array-chunk.php)
+ * has the same behavior as [PHP's array_chunk](https://php.net/manual/en/function.array-chunk.php)
  * function, and thus will insert smaller-sized chunks at the end if
  * the input size is not divisible by the chunk size.
  *
